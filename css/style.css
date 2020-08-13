@@ -1,0 +1,32 @@
+label {
+  display: inline-block;
+  width: 90px;
+}
+
+input {
+  vertical-align: middle;
+}
+
+li {
+  padding: 5px 0;
+}
+
+#revealColor {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.viewValColor {
+  width: 30px;
+}
+
+#tudo {
+  display: block;
+  width: 325px;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: white;
+}
